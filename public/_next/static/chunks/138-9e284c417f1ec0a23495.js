@@ -141,7 +141,7 @@
                                 (0, c.jsx)("li", {
                                   className: "mt-3",
                                   children: (0, c.jsxs)("a", {
-                                    href: "mailto:support@rrwmining.com",
+                                    href: "mailto:support@visionwiseasset.com",
                                     className: "",
                                     children: [
                                       (0, c.jsx)("span", {
@@ -149,7 +149,7 @@
                                       }),
                                       (0, c.jsx)("span", {
                                         className: "ml-5 font-weight-bold",
-                                        children: "support@rrwmining.com",
+                                        children: "support@visionwiseasset.com",
                                       }),
                                     ],
                                   }),
