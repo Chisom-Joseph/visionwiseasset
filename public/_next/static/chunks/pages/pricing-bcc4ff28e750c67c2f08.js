@@ -102,7 +102,7 @@
                           children: [
                             (0, a.jsx)("h2", {
                               className: "h2-xs text-light",
-                              children: "Ready to Join RRW MINING?",
+                              children: "Ready to Join Vision Wise Asset?",
                             }),
                             (0, a.jsx)("p", {
                               className: "p-lg text-light",

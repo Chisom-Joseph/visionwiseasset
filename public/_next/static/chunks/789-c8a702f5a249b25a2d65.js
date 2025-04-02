@@ -270,7 +270,7 @@
                                     (0, l.jsx)("p", {
                                       className: "p-lg text-dark",
                                       children:
-                                        "All thanks to RRW MINING, I made my first million this year already with your help.",
+                                        "All thanks to Vision Wise Asset, I made my first million this year already with your help.",
                                     }),
                                     (0, l.jsxs)("div", {
                                       className: "author-data clearfix",
@@ -489,7 +489,7 @@
                                     (0, l.jsx)("p", {
                                       className: "p-lg text-dark",
                                       children:
-                                        "Thank you RRW MINING for all you do. I got my payment today.",
+                                        "Thank you Vision Wise Asset for all you do. I got my payment today.",
                                     }),
                                     (0, l.jsxs)("div", {
                                       className: "author-data clearfix",
@@ -674,7 +674,7 @@
                           children: [
                             (0, r.jsx)("h2", {
                               className: "h2-xs text-light",
-                              children: "Ready to Join RRW MINING?",
+                              children: "Ready to Join Vision Wise Asset?",
                             }),
                             (0, r.jsx)("p", {
                               className: "p-lg text-light",

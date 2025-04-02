@@ -239,7 +239,8 @@
                           children: [
                             (0, i.jsx)("h2", {
                               className: "h2-xs white-color",
-                              children: "Getting started with RRW MINING",
+                              children:
+                                "Getting started with Vision Wise Asset",
                             }),
                             (0, i.jsxs)("ul", {
                               className: "simple-list",
@@ -249,7 +250,7 @@
                                   children: (0, i.jsx)("p", {
                                     className: "p-lg white-color",
                                     children:
-                                      "Create a RRW MINING account, simply create account by registering with your valid email address and choice password. After successful registration, you will be redirected to your dashboard.",
+                                      "Create a Vision Wise Asset account, simply create account by registering with your valid email address and choice password. After successful registration, you will be redirected to your dashboard.",
                                   }),
                                 }),
                                 (0, i.jsx)("li", {
@@ -257,7 +258,7 @@
                                   children: (0, i.jsx)("p", {
                                     className: "p-lg white-color",
                                     children:
-                                      "Deposit your asset to start earning interest. Powered by RRW MINING's smart technology. RRW MINING supports ETH, USDT, BTC, USDC and many more. You can contact support for more information.",
+                                      "Deposit your asset to start earning interest. Powered by Vision Wise Asset's smart technology. Vision Wise Asset supports ETH, USDT, BTC, USDC and many more. You can contact support for more information.",
                                   }),
                                 }),
                                 (0, i.jsx)("li", {
@@ -308,7 +309,7 @@
                               (0, i.jsx)("h2", {
                                 className:
                                   "h2-xs color-white white-color text-center",
-                                children: "ABOUT RRW MINING",
+                                children: "ABOUT Vision Wise Asset",
                               }),
                               (0, i.jsx)("p", {
                                 className: "p-lg white-color text-justify",
@@ -318,12 +319,12 @@
                               (0, i.jsx)("p", {
                                 className: "p-lg white-color text-justify",
                                 children:
-                                  "RRW MINING, one of the safest crypto cloud mining platform, is thrilled to have launched a series of liquidity mining pools that leverage DeFi protocols and products to generate extremely high yields for its users who are eager to take a piece of pie from the trending DeFi projects.                ",
+                                  "Vision Wise Asset, one of the safest crypto cloud mining platform, is thrilled to have launched a series of liquidity mining pools that leverage DeFi protocols and products to generate extremely high yields for its users who are eager to take a piece of pie from the trending DeFi projects.                ",
                               }),
                               (0, i.jsx)("p", {
                                 className: "p-lg white-color text-justify",
                                 children:
-                                  "RRW MINING has unbeatable features which include; Smart pools, High-quality DeFi projects, Audit by SlowMist, Expert team, Easy to join, Daily/weekly/monthly return, Ultra-high yield, 100BTC insurance fund.",
+                                  "Vision Wise Asset has unbeatable features which include; Smart pools, High-quality DeFi projects, Audit by SlowMist, Expert team, Easy to join, Daily/weekly/monthly return, Ultra-high yield, 100BTC insurance fund.",
                               }),
                             ],
                           }),
@@ -444,7 +445,7 @@
                             (0, i.jsx)("p", {
                               className: "p-xl",
                               children:
-                                "RRW MINING gives you the leverage to earn from the cryptocurrency and forex market out of the box. With our startegic Defi programs we help our investors to seamlessly earn very attractive dividends from the profits made by trading cryptocurrency and forex from a pool of resources.",
+                                "Vision Wise Asset gives you the leverage to earn from the cryptocurrency and forex market out of the box. With our startegic Defi programs we help our investors to seamlessly earn very attractive dividends from the profits made by trading cryptocurrency and forex from a pool of resources.",
                             }),
                             (0, i.jsx)("a", {
                               href: "https://app.visionwiseasset.com/?a=login",
@@ -526,12 +527,12 @@
                       children: [
                         (0, i.jsx)("h2", {
                           className: "h2-md white-color",
-                          children: "Why Choose RRW MINING ",
+                          children: "Why Choose Vision Wise Asset ",
                         }),
                         (0, i.jsx)("p", {
                           className: "p-xl white-color",
                           children:
-                            "RRW MINING has unbeatable features which you can benefit from",
+                            "Vision Wise Asset has unbeatable features which you can benefit from",
                         }),
                       ],
                     }),
@@ -603,7 +604,7 @@
                                 (0, i.jsx)("p", {
                                   className: "p-lg white-color",
                                   children:
-                                    "It is okay for you not to know what 'yield farming' is, how it works, and still enjoy the high return from yield farming. Sit back and relax while RRW MINING does DeFi liquidity mining for you.",
+                                    "It is okay for you not to know what 'yield farming' is, how it works, and still enjoy the high return from yield farming. Sit back and relax while Vision Wise Asset does DeFi liquidity mining for you.",
                                 }),
                               ],
                             }),
