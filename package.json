@@ -1,0 +1,25 @@
+{
+  "name": "visionwiseasset",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chisom-Joseph/visionwiseasset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chisom-Joseph/visionwiseasset/issues"
+  },
+  "homepage": "https://github.com/Chisom-Joseph/visionwiseasset#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
