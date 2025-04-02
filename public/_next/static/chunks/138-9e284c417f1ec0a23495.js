@@ -530,7 +530,7 @@
                               (0, c.jsx)("li", {
                                 className: "nl-simple",
                                 children: (0, c.jsx)(t.default, {
-                                  href: "https://app.visionwiseasset.com/",
+                                  href: "https://app.visionwiseasset.com/?a=login/",
                                   children: (0, c.jsx)("a", {
                                     className: "btn ".concat(
                                       r || "btn-tra-white orange-red-hover",

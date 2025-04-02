@@ -110,7 +110,7 @@
                                 "We help you to seamlessly earn from the crypto market daily, taking you away from the risk of the market",
                             }),
                             (0, a.jsx)(n.default, {
-                              href: "https://app.visionwiseasset.com",
+                              href: "https://app.visionwiseasset.com/?a=login",
                               children: (0, a.jsx)("a", {
                                 className: "btn btn-yellow tra-white-hover",
                                 children: "Get Started Now",
@@ -234,7 +234,7 @@
                   className: "row",
                   children: n.map(function (e) {
                     return (0,
-                    c.jsx)("div", { className: "".concat(e.id > 4 ? "col-md-4" : "col-md-3"), children: (0, c.jsxs)("div", { className: "text-center mb-4 p-3 ", style: { boxShadow: "0px 2px 2px 5px rgba(255, 178, 12, 0.97)", borderRadius: "10px" }, children: [(0, c.jsx)("div", { className: "icon text-center", children: (0, c.jsx)("img", { src: "http://pixner.net/behoof/demo/assets/images/icons/invest-calculate/1.svg", alt: "icon-image" }) }), (0, c.jsx)("h2", { className: "percentage text-center m-4 text-white", children: e.name }), (0, c.jsxs)("h5", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Min Amount:" }), (0, c.jsx)("br", {}), " ", m(e.min_amount)] }), (0, c.jsxs)("h5", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Max Amount:" }), " ", (0, c.jsx)("br", {}), " ", parseFloat(e.max_amount) >= 1e7 ? "UNLIMITED" : m(e.max_amount), " "] }), (0, c.jsxs)("div", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Description:" }), " ", (0, c.jsx)("br", {}), " ", e.description, " "] }), (0, c.jsx)("a", { href: "https://app.visionwiseasset.com", className: "btn btn-yellow tra-white-hover btn-sm ", style: { boxShadow: "0px 5px 15px 0px rgb(230 97 43 / 40%)" }, children: "invest now" })] }) }, e.id);
+                    c.jsx)("div", { className: "".concat(e.id > 4 ? "col-md-4" : "col-md-3"), children: (0, c.jsxs)("div", { className: "text-center mb-4 p-3 ", style: { boxShadow: "0px 2px 2px 5px rgba(255, 178, 12, 0.97)", borderRadius: "10px" }, children: [(0, c.jsx)("div", { className: "icon text-center", children: (0, c.jsx)("img", { src: "http://pixner.net/behoof/demo/assets/images/icons/invest-calculate/1.svg", alt: "icon-image" }) }), (0, c.jsx)("h2", { className: "percentage text-center m-4 text-white", children: e.name }), (0, c.jsxs)("h5", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Min Amount:" }), (0, c.jsx)("br", {}), " ", m(e.min_amount)] }), (0, c.jsxs)("h5", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Max Amount:" }), " ", (0, c.jsx)("br", {}), " ", parseFloat(e.max_amount) >= 1e7 ? "UNLIMITED" : m(e.max_amount), " "] }), (0, c.jsxs)("div", { className: "package-name text-center grey-color m-2", children: [(0, c.jsx)("strong", { children: "Description:" }), " ", (0, c.jsx)("br", {}), " ", e.description, " "] }), (0, c.jsx)("a", { href: "https://app.visionwiseasset.com/?a=login", className: "btn btn-yellow tra-white-hover btn-sm ", style: { boxShadow: "0px 5px 15px 0px rgb(230 97 43 / 40%)" }, children: "invest now" })] }) }, e.id);
                   }),
                 }),
               ],

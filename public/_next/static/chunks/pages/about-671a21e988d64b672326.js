@@ -185,7 +185,7 @@
                           className: "btns-group mb-20",
                           children: [
                             (0, t.jsx)("a", {
-                              href: "https://app.visionwiseasset.com/",
+                              href: "https://app.visionwiseasset.com/?a=login/",
                               className:
                                 "btn btn-orange-red tra-white-hover mr-15",
                               children: "Get Started",

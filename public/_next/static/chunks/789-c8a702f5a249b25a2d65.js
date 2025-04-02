@@ -682,7 +682,7 @@
                                 "We help you to seamlessly earn from the crypto market daily, taking you away from the risk of the market",
                             }),
                             (0, r.jsx)(i.default, {
-                              href: "https://app.visionwiseasset.com",
+                              href: "https://app.visionwiseasset.com/?a=login",
                               children: (0, r.jsx)("a", {
                                 className: "btn btn-yellow tra-white-hover",
                                 children: "Get Started Now",
