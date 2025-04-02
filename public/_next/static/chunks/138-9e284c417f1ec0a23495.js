@@ -109,7 +109,7 @@
                         children: [
                           (0, c.jsx)("img", {
                             className: "footer-logo mb-25",
-                            src: "https://res.cloudinary.com/dzxyvdq14/image/upload/v1653054494/rrw36whitelogo.png",
+                            src: "/images/whitelogo.png",
                             alt: "footer-logo",
                           }),
                           (0, c.jsx)("p", {
@@ -404,7 +404,7 @@
                     (0, c.jsx)("span", {
                       className: "smllogo",
                       children: (0, c.jsx)("img", {
-                        src: "https://res.cloudinary.com/dzxyvdq14/image/upload/v1653054496/rrw36logodark.png",
+                        src: "/images/darklogo.png",
                         alt: "mobile-logo",
                       }),
                     }),
@@ -430,7 +430,7 @@
                           children: (0, c.jsx)("a", {
                             className: "logo-black",
                             children: (0, c.jsx)("img", {
-                              src: "https://res.cloudinary.com/dzxyvdq14/image/upload/v1653054496/rrw36logodark.png",
+                              src: "/images/darklogo.png",
                               alt: "header-logo",
                             }),
                           }),
@@ -443,9 +443,7 @@
                           children: (0, c.jsx)("a", {
                             className: "logo-white",
                             children: (0, c.jsx)("img", {
-                              src: "".concat(
-                                "https://res.cloudinary.com/dzxyvdq14/image/upload/v1653054494/rrw36whitelogo.png"
-                              ),
+                              src: "".concat("/images/whitelogo.png"),
                               alt: "header-logo",
                             }),
                           }),
