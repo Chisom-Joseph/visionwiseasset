@@ -38,7 +38,7 @@
                                 (0, l.jsx)("p", {
                                   className: "p-xl",
                                   children:
-                                    "Do you have any questions about Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING you can check from the list of questions below",
+                                    "Do you have any questions about Qoutes By TradingView Vision Wise Asset you can check from the list of questions below",
                                 }),
                               ],
                             }),
@@ -90,12 +90,12 @@
                                       (0, l.jsx)("h5", {
                                         className: "h5-md text-light",
                                         children:
-                                          "What exactly is Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING all about ?",
+                                          "What exactly is Qoutes By TradingView Vision Wise Asset all about ?",
                                       }),
                                       (0, l.jsx)("p", {
                                         className: "p-lg",
                                         children:
-                                          "Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING is an investment comapny that uses pooled assets from investors to trade Forex, Crypto and stock markets and pay back profits to users daily depending on the trade performance for the day.",
+                                          "Qoutes By TradingView Vision Wise Asset is an investment comapny that uses pooled assets from investors to trade Forex, Crypto and stock markets and pay back profits to users daily depending on the trade performance for the day.",
                                       }),
                                     ],
                                   }),
@@ -105,7 +105,7 @@
                                       (0, l.jsx)("h5", {
                                         className: "h5-md text-light",
                                         children:
-                                          "What are the requirements for buying shares from Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING",
+                                          "What are the requirements for buying shares from Qoutes By TradingView Vision Wise Asset",
                                       }),
                                       (0, l.jsx)("p", {
                                         className: "p-lg",
@@ -120,7 +120,7 @@
                                       (0, l.jsx)("h5", {
                                         className: "h5-md text-light",
                                         children:
-                                          "How do Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING make her profit",
+                                          "How do Qoutes By TradingView Vision Wise Asset make her profit",
                                       }),
                                       (0, l.jsxs)("ul", {
                                         className: "simple-list",
@@ -130,7 +130,7 @@
                                             children: (0, l.jsx)("p", {
                                               className: "p-lg",
                                               children:
-                                                "Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING pools assets/resources from sharehlders which are used in trading Forex, cryptocurrency and other Defi projects. The profits are made from trading Forex and Cryptocurrency.",
+                                                "Qoutes By TradingView Vision Wise Asset pools assets/resources from sharehlders which are used in trading Forex, cryptocurrency and other Defi projects. The profits are made from trading Forex and Cryptocurrency.",
                                             }),
                                           }),
                                           (0, l.jsx)("li", {
@@ -138,7 +138,7 @@
                                             children: (0, l.jsx)("p", {
                                               className: "p-lg",
                                               children:
-                                                "Through the Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING blockchain system we are sure of a boom in our Net Assets Value (NAV)",
+                                                "Through the Qoutes By TradingView Vision Wise Asset blockchain system we are sure of a boom in our Net Assets Value (NAV)",
                                             }),
                                           }),
                                         ],
@@ -175,7 +175,7 @@
                                       (0, l.jsx)("h5", {
                                         className: "h5-md text-light",
                                         children:
-                                          "How does Qoutes By TradingView RELIABLE REVIVAL WEALTH MINING handle my privacy?",
+                                          "How does Qoutes By TradingView Vision Wise Asset handle my privacy?",
                                       }),
                                       (0, l.jsx)("p", {
                                         className: "p-lg",

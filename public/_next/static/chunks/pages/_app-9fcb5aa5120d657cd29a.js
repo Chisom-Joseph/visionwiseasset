@@ -108,7 +108,7 @@
                     "https://res.cloudinary.com/dzxyvdq14/image/upload/v1653054496/rrwlogoappicon.png",
                 }),
                 (0, a.jsx)("title", {
-                  children: "RELIABLE REVIVAL WEALTH MINING || HOME",
+                  children: "Vision Wise Asset || HOME",
                 }),
                 (0, a.jsx)("link", {
                   rel: "icon",

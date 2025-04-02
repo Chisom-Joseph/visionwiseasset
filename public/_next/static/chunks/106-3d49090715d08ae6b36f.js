@@ -437,7 +437,7 @@
                             (0, i.jsxs)("h2", {
                               className: "h2-sm",
                               children: [
-                                "RELIABLE REVIVAL WEALTH MINING",
+                                "Vision Wise Asset",
                                 (0, i.jsx)(h, {}),
                               ],
                             }),

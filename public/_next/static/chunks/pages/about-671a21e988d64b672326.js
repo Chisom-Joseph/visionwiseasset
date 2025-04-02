@@ -31,7 +31,7 @@
                         children: [
                           (0, t.jsx)("h2", {
                             className: "h2-xl text-center text-white mt-4",
-                            children: "ABOUT RELIABLE REVIVAL WEALTH MINING",
+                            children: "ABOUT Vision Wise Asset",
                           }),
                           (0, t.jsx)("p", {
                             className: "p-xl text-justify",
@@ -41,12 +41,12 @@
                           (0, t.jsx)("p", {
                             className: "p-xl text-justify",
                             children:
-                              "RELIABLE REVIVAL WEALTH MINING, one of the safest crypto cloud mining platform, is thrilled to have launched a series of liquidity mining pools that leverage DeFi protocols and products to generate extremely high yields for its users who are eager to take a piece of pie from the trending DeFi projects.",
+                              "Vision Wise Asset, one of the safest crypto cloud mining platform, is thrilled to have launched a series of liquidity mining pools that leverage DeFi protocols and products to generate extremely high yields for its users who are eager to take a piece of pie from the trending DeFi projects.",
                           }),
                           (0, t.jsx)("p", {
                             className: "p-xl text-justify",
                             children:
-                              "RELIABLE REVIVAL WEALTH MINING has unbeatable features which include; Smart pools, High-quality DeFi projects, Audit by SlowMist, Expert team, Easy to join, Daily/weekly/monthly return, Ultra-high yield, 100BTC insurance fund.",
+                              "Vision Wise Asset has unbeatable features which include; Smart pools, High-quality DeFi projects, Audit by SlowMist, Expert team, Easy to join, Daily/weekly/monthly return, Ultra-high yield, 100BTC insurance fund.",
                           }),
                         ],
                       }),
