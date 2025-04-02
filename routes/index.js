@@ -5,37 +5,37 @@ router.use("/api", require("./api"));
 
 // get index
 router.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "index.html"));
+  res.render("index");
 });
 
 // get pricing
 router.get("/pricing", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "pricing.html"));
+  res.render("pricing");
 });
 
 // get about
 router.get("/about", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "about.html"));
+  res.render("about");
 });
 
 // get contacts
 router.get("/contacts", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "contacts.html"));
+  res.render("contacts");
 });
 
 // get faqs
 router.get("/faqs", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "faqs.html"));
+  res.render("faqs");
 });
 
 // get terms
 router.get("/terms", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "terms.html"));
+  res.render("terms");
 });
 
 // get features
 router.get("/features", (req, res) => {
-  res.sendFile(path.join(__dirname, "../", "views", "features.html"));
+  res.render("features");
 });
 
 module.exports = router;
