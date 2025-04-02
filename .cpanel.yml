@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOY_PATH=/home/uprbeoqr/public_html/visionwiseasset
+    - /bin/cp -r * $DEPLOY_PATH
