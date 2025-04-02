@@ -126,8 +126,8 @@
             (0, a.jsx)(c.default, {
               id: "show-banner",
               dangerouslySetInnerHTML: {
-                __html:
-                  "var _smartsupp = _smartsupp || {};\n    _smartsupp.key = '6909addd4dfdc4a2fe80982935030acf8060bb72';\n    window.smartsupp||(function(d) {\n      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];\n      s=d.getElementsByTagName('script')[0];c=d.createElement('script');\n      c.type='text/javascript';c.charset='utf-8';c.async=true;\n      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);\n    })(document);",
+                // __html:
+                //   "var _smartsupp = _smartsupp || {};\n    _smartsupp.key = '6909addd4dfdc4a2fe80982935030acf8060bb72';\n    window.smartsupp||(function(d) {\n      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];\n      s=d.getElementsByTagName('script')[0];c=d.createElement('script');\n      c.type='text/javascript';c.charset='utf-8';c.async=true;\n      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);\n    })(document);",
               },
             }),
           ],
