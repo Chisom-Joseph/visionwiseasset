@@ -324,7 +324,7 @@
                             children: [
                               "\xa9 ",
                               new Date().getFullYear(),
-                              " RELIABLE REVIVAL WEALTH MINING. All Rights Reserved",
+                              "VISION WISE ASSET. All Rights Reserved",
                             ],
                           }),
                         }),
