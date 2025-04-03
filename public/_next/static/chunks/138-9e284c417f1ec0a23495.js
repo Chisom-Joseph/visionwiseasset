@@ -324,7 +324,7 @@
                             children: [
                               "\xa9 ",
                               new Date().getFullYear(),
-                              "VISION WISE ASSET. All Rights Reserved",
+                              " VISION WISE ASSET. All Rights Reserved",
                             ],
                           }),
                         }),
